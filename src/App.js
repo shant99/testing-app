@@ -4,6 +4,8 @@ import "./App.css";
 function App() {
   const [isVisible, setVisible] = useState(false);
 
+  console.log("Hello world");
+
   return (
     <div className="App">
       <button onClick={() => setVisible(true)}>Click Me</button>
