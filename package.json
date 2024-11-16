@@ -1,5 +1,6 @@
 {
-  "name": "testing_app",
+  "name": "testing-app",
+  "homepage": "https://shant99.github.io/testing-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
